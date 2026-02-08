@@ -1,0 +1,82 @@
+{
+  "modules": [
+    {
+      "name": "AutoClicker",
+      "toggled": false,
+      "key": 0,
+      "values": {
+        "Mode": "1.9 Delay",
+        "CPS": 17.0,
+        "Cooldown Threshold": 1.0,
+        "Allow Inventory": false,
+        "Break Blocks": true
+      }
+    },
+    {
+      "name": "HUD",
+      "toggled": true,
+      "key": 22
+    },
+    {
+      "name": "TargetHud",
+      "toggled": true,
+      "key": 25
+    },
+    {
+      "name": "PotionHud",
+      "toggled": true,
+      "key": 0
+    },
+    {
+      "name": "ClickGui",
+      "toggled": false,
+      "key": 54
+    },
+    {
+      "name": "Sprint",
+      "toggled": true,
+      "key": 0,
+      "values": {
+        "Legit": false
+      }
+    },
+    {
+      "name": "Velocity",
+      "toggled": false,
+      "key": 0,
+      "values": {
+        "Horizontal": 100.0,
+        "Vertical": 100.0,
+        "Only sprinting": false
+      }
+    },
+    {
+      "name": "FastPlace",
+      "toggled": true,
+      "key": 0,
+      "values": {
+        "Place Delay": 0.0,
+        "Blocks": true,
+        "Projectiles": true,
+        "Show Count": true
+      }
+    },
+    {
+      "name": "Cape",
+      "toggled": true,
+      "key": 0,
+      "values": {
+        "Mode": "Cape1"
+      }
+    },
+    {
+      "name": "KillAura",
+      "toggled": false,
+      "key": 19,
+      "values": {
+        "Range": 3.6,
+        "CPS": 11.5
+      }
+    }
+  ]
+}
